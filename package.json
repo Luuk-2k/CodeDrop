@@ -1,0 +1,14 @@
+{
+  "name": "codedrop",
+  "version": "1.0.0",
+  "description": "CodeDrop website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Redice",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
